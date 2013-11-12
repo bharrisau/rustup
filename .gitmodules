@@ -1,0 +1,3 @@
+[submodule "lib/rust-core"]
+	path = lib/rust-core
+	url = git@github.com:thestinger/rust-core.git
