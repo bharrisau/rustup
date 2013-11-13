@@ -1,3 +1,7 @@
+# Build files
+*.lst
+*.d
+
 # Object files
 *.o
 *.ko
